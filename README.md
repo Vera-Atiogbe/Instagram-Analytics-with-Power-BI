@@ -45,12 +45,19 @@ Analysed survey responses from 630 data professionals globally to uncover salary
 - DAX Formulas
 
 ### Key Findings
-- Data Scientists earn the highest average salary at $94k
-- Python is the most popular programming language
-- Average age of data professionals is 29.87 years
-- Work/life balance satisfaction scored 5.74 out of 10
-- Salary satisfaction scored just 4.27 out of 10
-- 42.7% found it difficult to break into data
+
+
+-630 survey takers across US, India, UK, Canada and other countries
+-Data Scientists earn the highest average annual salary at $94k
+-Python is the most popular programming language by far
+-Data Analysts earn an average of $55k per year
+-Average age of the survey takers is 29.87 years
+-Work/life balance satisfaction is 5.74 out of 10
+-Salary satisfaction is low at just 4.27 out of 10
+-Females earn an average salary of $55,191 per year
+-Males earn an average salary of $53,457 per year (females earn slightly more than males)
+-42.7% found it neither easy nor difficult to break into data 
+-24.8% found it difficult to break into data
 
 ---
 
